@@ -265,9 +265,12 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![pic 1 mad](https://github.com/user-attachments/assets/114a5ca8-1116-4b04-8567-b5f5c4b3290f)
+![WhatsApp Image 2024-10-26 at 1 41 56 PM (1)](https://github.com/user-attachments/assets/b83e4bc8-c71b-4c05-9ff5-1cb6ffb0f577)
 
-![mad img 2](https://github.com/user-attachments/assets/5354ab59-f4ca-4d25-bb21-77c01e021b3f)
+![WhatsApp Image 2024-10-26 at 1 41 56 PM](https://github.com/user-attachments/assets/4daefefc-7543-4b92-9d0d-ece79e6aa38f)
+
+
+
 
 
 ## RESULT:
